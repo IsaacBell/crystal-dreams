@@ -1,5 +1,5 @@
-//This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
-//by Ethan Shulman
+// This work is licensed under Creative Commons -
+// TODO: formal license to be placed here once project complete
 
 var width = window.innerWidth;
 var height = window.innerHeight;
